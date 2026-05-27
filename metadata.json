@@ -1,0 +1,6 @@
+{
+  "name": "BuildFlow AI",
+  "description": "Premium AI-powered construction project management dashboard with task tracking, real-world scheduling, visual analytics, compliance documents, and predictive AI risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

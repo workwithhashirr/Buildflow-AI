@@ -1,20 +1,27 @@
+
+# Buildflow-AI
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+## Overview
+Buildflow-AI is a dedicated solution designed to streamline construction waste management through intelligent digital processes. This project leverages AI to assist in site management, resource allocation, and sustainable recycling logistics.
 
-This contains everything you need to run your app locally.
+## Key Features
+* **Intelligent Site Management:** Automates the tracking and categorization of construction waste.
+* **Digital Marketplace:** Facilitates B2B connections between construction sites and recycling facilities.
+* **AI-Assisted Operations:** Utilizes Gemini API to provide real-time decision support for project managers.
 
-View your app in AI Studio: https://ai.studio/apps/2312c508-5bb8-419d-bc95-630546fb746d
+## Run and Deploy
+This project is built to run locally and can be deployed for cloud access. 
 
-## Run Locally
+### Prerequisites
+* [Node.js](https://nodejs.org/) installed on your machine.
+* A valid [Gemini API Key](https://ai.google.dev/).
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Setup Instructions
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/workwithhashirr/Buildflow-AI.git](https://github.com/workwithhashirr/Buildflow-AI.git)
+   cd Buildflow-AI
